@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amarante&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+  <body>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
+<section>
+  <header class="TopNavBar">
+    <div class="logo">ANATOLIAN TABLE</div>
+  <nav>
+   <ul>
+     <li><a href="#" class> Home</a></li>
+     <li> <a href="#" class="active"> Recipes </a></li>
+     <li><a href="#"> About</a></li>
+     <li><a href="#"> Contact</a></li>
+   </ul> 
+  </nav>
+  </header>
+</section>
+<main>
+  <section class="hero-section">
+    <h1> Menemen</h1>
+    <p> An essential of the classic Turkish breakfast</p>
+    <img class="hero-image" src="https://www.eatingwell.com/thmb/_tXGqm7YmBhImKkVD7IH5IGlARA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Menemen-Turkish-Eggs-v2-1x1-1-a090ffbca76943d49876b093e28432b5.jpg"
+           alt="Tavada-menemen">
+  </section>
+<section class="recipe">
+  <div class="ingredients">
+   <h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/7066/7066760.png" class="ingredients-icon">
+  Ingredients
+</h2>
+    <ul class="list-ingredients"> 
+    <li>3 eggs</li>
+    <li>2 tomatoes</li>
+    <li>2 green chili peppers</li>
+    <li>1 tablespoon of butter</li>
+    <li>Salt, black pepper, red pepper flakes</li>
+  </ul>
+  </div>
+  <div class="preparation-box">
+    <h2>
+      <img src="https://www.vhv.rs/dpng/d/482-4820080_circle-hd-png-download.png" class="Preparation-icon">
+      Preparation</h2>
+  <ol class="preparation">
+    <li>Melt the butter in a pan.</li>
+    <li>Add the chopped peppers and sauté.</li>
+    <li>Add the grated tomatoes and cook until the liquid reduces.</li>
+    <li>Crack the eggs and stir.</li>
+    <li>Add salt and spices, then serve.</li>
+  </ol>
+    </div>
+</section>
+<section class="Other-Recipes">
+  <h2>Other Recipes</h2>
+  <div class="card-other-recipes">
+    <a class="kart" href="#"> <img src="https://tse3.mm.bing.net/th/id/OIP.Vcza9wrKASFGLTSdJeRvuAHaEn?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="egg-with-sucuk"> <h3>Turkish Sausage & Eggs</h3><p>Spicy and filling.</p></a>
+    <a class="kart" href="#"> <img src="https://howtocook-guide.com/wp-content/uploads/2023/03/how-to-make-an-omelet.jpg" alt="Omelette"> <h3>Omelette</h3><p>Quick and easy.</p></a>
+    <a class="kart" href="#"> <img src="https://tse4.mm.bing.net/th/id/OIP.tAZJ6qF7DW7x0qf5-m2rHAHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"> <h3>Kuymak</h3><p>A taste of mıhlama.</p></a>
+    <a class="kart" href="#"> <img src="https://tse1.mm.bing.net/th/id/OIP.CPiGg1_aFwYP0jYR7hwE6gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="egg-with-sucuk"> <h3>Çılbır</h3><p>A yogurt-based delight.</p></a>
+  </div>
+</section>
+  
+  <section>
+     <footer class="footer">
+      <p>© 2024 Culinary Heritage. Traditional Turkish Flavors.</p>
+    <nav class="footer-links">
+      <a href="#">Privacy Policy</a>
+      <a href="#">Terms of Use</a>
+      <a href="#">Contact Us</a>
+    </nav>
+    </footer>
+  </section>
+</main>
