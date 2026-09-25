@@ -2,6 +2,8 @@
 
 A responsive recipe web page showcasing traditional Turkish dishes, built with pure HTML and CSS. The featured recipe is **Menemen**, a classic Turkish breakfast made with eggs, tomatoes, and peppers.
 
+![Anatolian Table](cover.png)
+
 ## 📖 About
 
 Anatolian Table is a clean, modern recipe page design. It presents a single recipe in detail — with an ingredients list and step-by-step preparation guide — alongside a selection of other traditional Turkish recipes to explore.
